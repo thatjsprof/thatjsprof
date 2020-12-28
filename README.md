@@ -3,6 +3,10 @@
 - 📐 I am obsessed with the clean code architecture by Bob Martin 
 - 🐘 I just started coding with JavaScript and would be a beast in the next 150 days
 
+### What are my principles?
+- Clean code architecture
+- Building using microservices
+- Agile workflow
 <!--
 **thatjsprof/thatjsprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
