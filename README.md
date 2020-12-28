@@ -1,7 +1,7 @@
 ### Hi there, I'm David 👋
-💻 I am aspiring to be a full-stack developer
-📐 I am obsessed with the clean code architecture by Bob Martin 
-🐘 I just started coding with JavaScript and would be a beast in the next 150 days
+- 💻 I am aspiring to be a full-stack developer
+- 📐 I am obsessed with the clean code architecture by Bob Martin 
+- 🐘 I just started coding with JavaScript and would be a beast in the next 150 days
 
 <!--
 **thatjsprof/thatjsprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
