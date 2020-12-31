@@ -10,8 +10,9 @@
 
 ### ⚡ 2021 Goals
 - Become a professional software engineer
-- Build a career in data science
+- Build a career in data science (python)
 - Read a book every week
+- Get into technical writing and start a tech oriented blog
 - Be more business oriented
 - Overall become a more improved version of myself everyday
 <!--
