@@ -7,6 +7,13 @@
 - Clean code architecture
 - Building using microservices
 - Agile workflow
+
+### ⚡ 2021 Goals
+- Become a professional software engineer
+- Build a career in data science
+- Read a book every week
+- Be more business oriented
+- Overall become a more improved version of myself everyday
 <!--
 **thatjsprof/thatjsprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
