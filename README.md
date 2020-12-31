@@ -13,6 +13,7 @@
 - Build a career in data science (python)
 - Read a book every week
 - Get into technical writing and start a tech oriented blog
+- Work on technical projects that are engineering focused
 - Be more business oriented
 - Overall become a more improved version of myself everyday
 <!--
