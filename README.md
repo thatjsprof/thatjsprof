@@ -16,7 +16,8 @@
 - 🚧 Work on technical projects that are engineering focused
 - 🧑‍💼 Be more business oriented
 - ♟️ Become a very good chess player
-- 😄Overall become a more improved version of myself everyday
+- 💻 Get a high paying job and possibly japa to canada by God's grace
+- 😄 Overall become a more improved version of myself everyday
 <!--
 **thatjsprof/thatjsprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
