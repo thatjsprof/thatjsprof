@@ -8,6 +8,11 @@
 - Building using microservices
 - Agile workflow
 
+### What am I learning currently?
+- Typescript
+- Git
+- Advanced CSS techniques
+
 ### ⚡ 2021 Goals
 - 🧑‍💻 Become a professional software engineer
 - 📊 Build a career in data science (python)
