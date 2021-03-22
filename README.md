@@ -1,5 +1,5 @@
 ### Hi there, I'm David 👋
-- 💻 I am a full-stack developer, (MERN stack)
+- 💻 I am a full-stack developer, (MERN & MEVN stack)
 - 📐 I am obsessed with the clean code architecture by Bob Martin 
 - 🐘 I just started coding with JavaScript (maybe not) and would be a beast in the next 150 days
 
