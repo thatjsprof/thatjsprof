@@ -12,7 +12,7 @@
 - Typescript
 - Git
 - Advanced CSS techniques
-- Advanced Node JS principles
+- Micro-frontends
 
 ### ⚡ 2021 Goals
 - 🧑‍💻 Become a professional software engineer
