@@ -5,7 +5,6 @@
 
 ### What are my principles?
 - Clean code architecture
-- Building using microservices
 - Agile workflow
 
 ### What am I learning currently?
